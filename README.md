@@ -1,3 +1,4 @@
+# Can check it live from here 👉[(https://enn-dee.github.io/product-preview-card-component-main/)](https://enn-dee.github.io/product-preview-card-component-main/)
 # Frontend Mentor - Product preview card component
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
